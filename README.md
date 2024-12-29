@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Anuj</h1>
 <h3 align="center">I am a beginning in Front-End Development.</h3>
-<img align="right" alt="coding"src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="400">
+<img align="right" alt="coding"src="https://i.pinimg.com/originals/57/e3/53/57e353468c03daab4846f3c3418f436f.gif" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj-exercise&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-exercise" /> </p>
 
